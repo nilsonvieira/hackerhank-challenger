@@ -20,7 +20,7 @@ Returns
 - int: the sum of  and 
 
 ## Constraints
-> 1 >_ a, b >_ 1000
+![image](images/01.png)
 
 Sample Input
 ```
